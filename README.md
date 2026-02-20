@@ -4,6 +4,8 @@ Practical LangGraph agent examples built with Claude (Anthropic). Each notebook 
 
 ## Recipes
 
+### general/
+
 | # | Notebook | Topic |
 |---|---|---|
 | 01 | `01_intro_basics.ipynb` | LangGraph fundamentals — nodes, edges, graph compilation |
@@ -11,6 +13,11 @@ Practical LangGraph agent examples built with Claude (Anthropic). Each notebook 
 | 03 | `03_stock_ticker_agent.ipynb` | Stock ticker agent with tvscreener API |
 | 04 | `04_stock_info_claude.ipynb` | Stock info agent powered by Claude + tvscreener |
 | 05 | `05_haiku_generator.ipynb` | Haiku generator with tool calling (Claude Sonnet + Haiku) |
+
+### bioinformatics/
+
+| # | Notebook | Topic |
+|---|---|---|
 | 06 | `06_gsea_proteomics.ipynb` | Gene set enrichment analysis with gseapy and CPTAC proteomics data |
 | 07 | `07_langgraph_gsea_tool.ipynb` | LangGraph agent wrapping gseapy enrichr for pathway analysis |
 
